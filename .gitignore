@@ -1,0 +1,10 @@
+*.txt
+*/*
+!data/art
+data/art/curses*
+data/art/mouse*
+data/art/font.ttf
+!data/init
+README.linux
+!data/init/**
+!.gitignore
